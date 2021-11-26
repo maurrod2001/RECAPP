@@ -1,0 +1,10 @@
+.pink{
+    background: crimson;
+}
+.pink:hover{
+    background-color: rgb(199, 18, 57)
+};
+.scle{
+   
+    border-radius: 35px
+};
